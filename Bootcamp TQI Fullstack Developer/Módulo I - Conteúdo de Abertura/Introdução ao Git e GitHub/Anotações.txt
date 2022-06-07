@@ -1,0 +1,19 @@
+GitBash é um terminal extendido que otimiza o uso do Git.
+
+Download do Git:https://git-scm.com/download/win
+
+Comandos Utéis do GitBash 
+
+cd .. - Retrocede uma pasta
+ctrl L - Limpa terminal
+cd /pasta - Acessa pasta
+git config --global user.name "nome" - configura nome
+git config --global user.email nome@example.com - configura email
+git init - cria subdiretorio com arquivos necessarios do repósitorio
+git clone [url] - clona urls do github
+git add - grava alteraçoes
+git status - verifica status
+gif diff - verifica mudanças
+git commit - armazena o conteudo atual em novo commit
+git pull - incorpora as alteraçoes de um repositorio remoto na branch atual
+git push - transfere commit a partir do repositorio local para um remoto

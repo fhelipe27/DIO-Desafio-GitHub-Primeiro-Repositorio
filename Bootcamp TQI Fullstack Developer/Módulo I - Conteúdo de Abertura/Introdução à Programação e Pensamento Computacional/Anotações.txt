@@ -1,0 +1,17 @@
+Pensamento computacional é um processo envolvido na expressão de soluções em passos computacionais que podem ser implementados no computador.
+
+Baseado em 4 pilares:
+
+-Decomposição
+-Reconhecimento de Padrões
+-Abstração
+-Design de Algoritmos
+
+Raciocínio Lógico é uma forma de pensamento estruturado, ou raciocínio, que permite encontrar a conclusao ou determinar a resolução de um problema.
+
+Três pilares:
+
+Indução
+Dedução
+Abdução
+
